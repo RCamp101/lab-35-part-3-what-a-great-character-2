@@ -1,0 +1,28 @@
+{
+    "name": "Lab 3.5 Part 3 What a great character! #2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "introcs-tutorials": "github:alex-kulcsar/introcs-tutorials#v1.0.0",
+        "characterAnimations": "github:microsoft/arcade-character-animations"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
